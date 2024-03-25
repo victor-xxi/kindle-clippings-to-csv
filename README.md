@@ -2,6 +2,10 @@
 
 Easily adaptable program to convert your clippings into a CSV file.
 
+## Language
+
+- The output file is in Catalan.
+
 ## Requirements
 
 - This program has only been tested for the [**Kindle 5**](https://en.wikipedia.org/wiki/Amazon_Kindle#Kindle_5). Other devices' files may have another structrue.
