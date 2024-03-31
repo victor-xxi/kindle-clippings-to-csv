@@ -5,7 +5,7 @@ Easily adaptable program to convert your clippings into a CSV file.
 ## Language
 - The code is wrote in English
 - The input file is expected to be in Spanish.
-- The output file is in Catalan.
+- The output file (the headers of the csv) is in Catalan.
 
 ## Requirements
 
