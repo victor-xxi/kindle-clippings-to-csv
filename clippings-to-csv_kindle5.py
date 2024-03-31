@@ -95,9 +95,9 @@ while True:
     # scan second line of the input file and split it into words
     page_date_time = f_in.readline().split()
     length = len(page_date_time)
+    page = ''
     for i in range(length):
         # page
-        # page = ''
         if page_date_time[i] == 'página':
             page = page_date_time[i+1]
         # position
