@@ -15,7 +15,10 @@ Easily adaptable program to convert your clippings into a CSV file.
 
 - If the clipping has a semicolon then the CSV may have some issues.
 
+## Work in progress
+
+- Add conversion to a nice latex file that does chapters per years or per author. If the purpose is printing it physically, chapters by years make more sense as it's easier to update.
+
 ## Future work
 
 - Add suport for an ebook that my friend owns.
-- Add conversion to a nice latex file that does chapters per years or per author. If the purpose is printing it physically, chapters by years make more sense as it's easier to update.
